@@ -6,13 +6,12 @@ Repositório criado para armazenar as minhas **aulas**, **exercícios** e **extr
 
 Estou no meu **terceiro ano** do curso e, em 2026, estou cursando as seguintes matérias:
 
-| Sigla    | Descrição |
-|----------|-----------|
-| Teepi    | Tecnologias para Desenvolvimento Web / Integração |
-| PM       | Projeto de Mídia |
-| LdSOeR   | Lógica de Sistemas Operacionais e Redes |
-| PDdS     | Práticas de Desenvolvimento de Software |
-| POdO     | Programação Orientada a Objetos |
+| Sigla          | Descrição |
+|----------------|-----------|
+| LDSOER.TEEPI   | Lógica de Sistemas Operacionais e Redes + Tecnologias para Desenvolvimento Web / Integração |
+| PM             | Projeto de Mídia |
+| PDDS           | Práticas de Desenvolvimento de Software |
+| POO            | Programação Orientada a Objetos |
 
 ## 🛠️ Ferramentas e Linguagens
 
@@ -23,26 +22,25 @@ Estou no meu **terceiro ano** do curso e, em 2026, estou cursando as seguintes m
 
 ```
 AULAS2026-/
-├── Teepi/
-│   ├── aulas/
-│   ├── exercicios/
-│   └── extras/
-├── PM/
-│   ├── aulas/
-│   ├── exercicios/
-│   └── extras/
-├── LdSOeR/
-│   ├── aulas/
-│   ├── exercicios/
-│   └── extras/
-├── PDdS/
-│   ├── aulas/
-│   ├── exercicios/
-│   └── extras/
-└── POdO/
-    ├── aulas/
-    ├── exercicios/
-    └── extras/
+├── ESTUDOS/
+│   └── 2026/
+│       ├── LDSOER.TEEPI/
+│       │   ├── aulas/
+│       │   ├── exercicios/
+│       │   └── extras/
+│       ├── POO/
+│       │   ├── aulas/
+│       │   ├── exercicios/
+│       │   └── extras/
+│       ├── PDDS/
+│       │   ├── aulas/
+│       │   ├── exercicios/
+│       │   └── extras/
+│       └── PM/
+│           ├── aulas/
+│           ├── exercicios/
+│           └── extras/
+└── README.md
 ```
 
 Cada pasta de matéria está organizada em:
